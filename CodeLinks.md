@@ -8,7 +8,7 @@
 
 [4.2.2 Numerically Solving the Three-Voter Model with Heterogeneous Costs - c_A < c_B](https://www.wolframcloud.com/obj/yonghuihao22/Published/3Voter_c1_less_than_cB.wls.nb)
 
-[4.3.1 Numerically Solving the Three-Voter Model with Homogeneous Costs and Switching Parameter = 0.3](https://www.wolframcloud.com/env/yonghuihao22/Published/Switching_0.3.wls.nb)
+[4.3.1 Numerically Solving the Three-Voter Model with Homogeneous Costs and Switching Parameter = 0.3](https://www.wolframcloud.com/obj/yonghuihao22/Published/Switching_0.3.wls.nb)
 
 [4.3.2 Numerically Solving the Three-Voter Model with Homogeneous Costs and Switching Parameter = 0.7](https://www.wolframcloud.com/obj/yonghuihao22/Published/Switching_0.7.wls.nb)
 
