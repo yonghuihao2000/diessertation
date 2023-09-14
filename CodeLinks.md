@@ -13,8 +13,9 @@
 [Numerically Solving the Five-Voter Model with Homogeneous Costs](https://www.wolframcloud.com/obj/yonghuihao22/Published/5Voter_homogeneous_cost.wls.nb)
 
 
-[Numerically Solving the Three-Voter Model with Homogeneous Costs and Switching](https://www.wolframcloud.com/obj/yonghuihao22/Published/Switching.wls.nb)
+[Numerically Solving the Three-Voter Model with Homogeneous Costs and Switching Parameter = 0.3](https://www.wolframcloud.com/env/yonghuihao22/Published/Switching_0.3.wls.nb)
 
+[Numerically Solving the Three-Voter Model with Homogeneous Costs and Switching Parameter = 0.7](https://www.wolframcloud.com/obj/yonghuihao22/Published/Switching_0.7.wls.nb)
 
 
 
